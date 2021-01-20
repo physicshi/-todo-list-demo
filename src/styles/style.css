@@ -99,8 +99,9 @@ html {
       width: 200px;
   }
   #todo-list .done .todo-content {
-    text-decoration: line-through;
-    color: #777777;
+    /* text-decoration: line-through; */
+    color: #999696;
+    /* background-color: rgb(226, 155, 155); */
   }
   #todo-list .todo-destroy {
     position: absolute;
